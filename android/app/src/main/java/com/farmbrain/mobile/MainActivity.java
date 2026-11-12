@@ -10,7 +10,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.Gravity;
-import android.view.inputmethod.InputType;
+import android.text.InputType;
 import android.webkit.*;
 import android.widget.*;
 import android.content.ActivityNotFoundException;
